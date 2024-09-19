@@ -1,0 +1,15 @@
+export const WSS_URIS = [
+    // 'wss://endpoints.omniatech.io/v1/ws/bsc/mainnet/cdca85e2f741428ab63de57a2ca8b569',
+    // 'wss://endpoints.omniatech.io/v1/ws/bsc/mainnet/ddf67db11d3048c595f923770a61cfeb',
+    // 'wss://endpoints.omniatech.io/v1/ws/bsc/mainnet/6b8aaa6e4cf74c73b502b8c67eca330e',
+    'wss://bsc-mainnet.blastapi.io/065aae3b-d9fb-44a9-aa8f-52aaed45ea3c',
+    'wss://bsc-mainnet.blastapi.io/10a9bbb7-e14e-4e74-8ae3-1f804dac1a02',
+    'wss://bsc-mainnet.blastapi.io/465b0169-3d0b-4934-a9b4-a7257ee739d4',
+    'wss://bsc-mainnet.blastapi.io/41b3d215-9784-44d0-8caf-9b25dc9ebecd',
+    'wss://bsc-mainnet.blastapi.io/a0e0c572-902c-4be7-ab4b-397ecda1b442',
+    'wss://bsc-mainnet.blastapi.io/b3798959-4c30-4a88-a86e-d71fa1c59ad4',
+    'wss://bsc-mainnet.blastapi.io/bc27dd36-f263-4384-9403-db460fadea4e',
+    'wss://bsc-mainnet.blastapi.io/b31b38ec-8414-4c5a-a9aa-6e298fc2add1',
+    'wss://bsc-mainnet.blastapi.io/b24098e6-26ae-42dc-a072-33711923d607',
+    'wss://bsc-mainnet.blastapi.io/ff21caa9-c460-4320-bb9d-93a9847d0df5',
+];
